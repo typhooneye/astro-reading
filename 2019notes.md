@@ -25,3 +25,7 @@
 + 三种形成：planetesimal formation, terrestrial planet formation, gaseous giant formation
   + for gaseous giant formation: two ways: gravitational instability, accretion <br>
     +for accretion: 吸积：10 Earth Radius Core - 气体吸积 - 开沟
+## Oct 12
+1.
++ Liklihood maxiumum 使用前提：互相独立
++ \theta_eff: half luminosity, used in spectra analysis
