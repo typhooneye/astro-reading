@@ -232,4 +232,47 @@ Why the emission line tends to be lower?
 # Feb 11
 ###### Astrobites
 
+## Unlocking the secrets of chaotic planetary systems
+###### by Spencer Wallace
+
+*  certain arrangements of planets are inherently unstable
+	* Explanation: if you place them in a certain configuration and let them orbit their star for long enough, the gravitational interactions between the planets will fling some (or sometimes all) of the bodies clear out of the system.
+* Objective: The authors of today’s paper want to examine how reliable the estimates of instability timescales from these simulations actually are.
+* Work:
+	* Step1: For each simulation, the orbits and sizes of the planets were varied and planetary configuration was then evolved for a billion or so orbits 
+	* IF system became unstable
+	* Step2: the timescale for instability was recorded and the same configuration was run again with the initial conditions tweaked ever so slightly to probe the underlying chaotic behavior.
+* Results: the distribution of instability times for a given configuration of planets fell into two broad categories.
+	* Case1: the distribution was very sharply peaked around a single value.
+	* Case2: the distribution had a log-normal shape.
+* Explanation: It depends on whether the instability timescale or the Lyapunov timescale are longer.
+	* For the sharply peaked distribution, the planets become unstable before chaos sets in. This results in an instability time that is not sensitive to slight changes in the initial conditions.
+	* For the broadly peaked distributions, chaos occurs well before the instability.
+* Interesting finding: the log-normal distributions all have a width of ~0.4 dex, regardless of the differences in the initial conditions.
+	* regardless of whether the instability time is short or long, or whether the planets are arranged randomly or placed in mean motion resonances.
+	* The only requirements here are that the planets start off in a compact configuration and the Lyapunov time be shorter than the instability time.
+	
+# Feb 12
+###### Astrobites
+
+## Extreme star-forming galaxy reveals all…!?
+###### by Joanna Ramasawmy 
+
+### submillimetre galaxies (SMGs)
+* Before: Low resolution: submillimetre telescopes are limited by the feasible sizes of single mirrors
+* Now: ALMA has high resolution thanks to the interferometry
+* Results: many of these very bright sources turn out to be the combined light of several galaxies
+* Findings:
+	* W — is so bright in the submillimetre that it classifies as a rare hyperluminous infrared galaxy (HyLIRG)
+		* implying a star formation rate of many thousands of stars per year
+### More about W:
+* confilict observations
+	*  From optical and X-ray spectroscopy, they determine that galaxy W does indeed host an AGN.
+	*  mid infrared: no dust signature 
+		* conflict with the UV 
+* Two mergeing AGN?
+	* that of a young dusty AGN with a high star formation rate, and an evolved neighbour with an unobscured AGN.
+*  SMBH being flung out of the galaxy?
+	* galaxy W continues to form stars, without the presence of an AGN which could regulate its star formation, giving rise to the unusually high star formation rate & infrared luminosity that classes it as a HyLIRG. 
+	
 
