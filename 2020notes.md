@@ -283,19 +283,19 @@ Why the emission line tends to be lower?
 ###### by by Briley Lewis
 
 ## Goal:
-	* to understand the plasma, magnetic fields, and charged particles near the surface of the Sun
+* to understand the plasma, magnetic fields, and charged particles near the surface of the Sun
 ## Status:
-	* Now that the Parker Solar Probe (PSP) has completed its first two close passages of the Sun (out of 24 total planned!)
+* Now that the Parker Solar Probe (PSP) has completed its first two close passages of the Sun (out of 24 total planned!)
 ## Science:
-	* Previous knowladge: 
-		* supersonic solar wind
-		* the plasma around the Sun is somehow accelerated as it leaves the corona, transporting energy into that solar wind
-	* Now:
-		* information: variation of density of particles, velocity of the wind, and temperature. 
-		* findings:
-		1. repeated spikes
-		2. the magnetic fields seemed to be bent into an S-shape
-		3. a net rotational flow around the Sun.(higher than expected)
-			* Stars are known to lose angular momentum through their stellar winds
-		4. a possible solution to the long-standing coronal heating problem (how is the Sun’s corona so hot?)-- Alfven waves
-	
+* Previous knowladge: 
+	* supersonic solar wind
+	* the plasma around the Sun is somehow accelerated as it leaves the corona, transporting energy into that solar wind
+* Now:
+	* information: variation of density of particles, velocity of the wind, and temperature. 
+	* findings:
+	1. repeated spikes
+	2. the magnetic fields seemed to be bent into an S-shape
+	3. a net rotational flow around the Sun.(higher than expected)
+		* Stars are known to lose angular momentum through their stellar winds
+	4. a possible solution to the long-standing coronal heating problem (how is the Sun’s corona so hot?)-- Alfven waves
+
