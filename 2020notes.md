@@ -299,3 +299,31 @@ Why the emission line tends to be lower?
 		* Stars are known to lose angular momentum through their stellar winds
 	4. a possible solution to the long-standing coronal heating problem (how is the Sun’s corona so hot?)-- Alfven waves
 
+# Feb 13
+###### Astrobites
+
+## The Beating Heart(-Shaped Region) of Pluto
+###### by Kaitlyn Shin
+
+### The heart region
+* The heart region in Pluto named Tombaugh Regio after Clyde Tombaugh, who discovered Pluto in 1930.
+* the left side of the heart, named “Sputnik Planitia” after the first artificial satellite
+* the left part is much younger than the other side of the heart.( less than 10 million years)
+
+### putnik Planitia 
+* a basin (sitting at about 1.9 miles (3 km) below the rest of the terrain).
+* holds most of Pluto’s nitrogen ice
+* unable to be explained by the older atmospheric model
+	* evidence: the presence of darker plains enriched in dark red material and in methane.
+
+### Work:
+* motivation: to investigate the role of atmospheric circulation in shaping these mysterious geological features.
+* data: New Horizons topography data 
+* model: an updated high-resolution version of a 3D global climate model developed at the Laboratoire de Météorologie Dynamique
+* findings:
+	*  there is an atmospheric current that flows counterclockwise over Sputnik Planitia
+		* caused by the warming of some nitrogen ice into vapor during the day, and then the vapor condensing back into ice at night
+	* These winds appear to be moving in the opposite direction (westward) of Pluto’s rotation (eastward)
+	* dominate the atmospheric circulation.
+	* to explain the dark streaks: Some of these westward winds blow close enough to the surface to transport heat, ice grains, and other small particles—such as haze particles, which could darken and erode ice—and explain the dark streaks and plains just west of Sputnik Planitia. 
+	
