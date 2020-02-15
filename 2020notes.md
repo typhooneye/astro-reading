@@ -299,7 +299,7 @@ Why the emission line tends to be lower?
 		* Stars are known to lose angular momentum through their stellar winds
 	4. a possible solution to the long-standing coronal heating problem (how is the Sun’s corona so hot?)-- Alfven waves
 
-# Feb 13
+# Feb 14
 ###### Astrobites
 
 ## The Beating Heart(-Shaped Region) of Pluto
@@ -326,4 +326,36 @@ Why the emission line tends to be lower?
 	* These winds appear to be moving in the opposite direction (westward) of Pluto’s rotation (eastward)
 	* dominate the atmospheric circulation.
 	* to explain the dark streaks: Some of these westward winds blow close enough to the surface to transport heat, ice grains, and other small particles—such as haze particles, which could darken and erode ice—and explain the dark streaks and plains just west of Sputnik Planitia. 
+
+# Feb 15
+###### Astrobites
+
+## More Clues to the Environment in Which FRBs Originate?
+###### by Haley Wahl 
+
+* FRB was first discovered by Dr. Duncan Lorimer in 2007 
+* a discovery in 2016 showed that they can actually repeat.
+* Two types of questions about FRB
+	* Q1:What causes the bursts?
+	*Q2:How can they be put to use
+* New finding: a newly discovered FRB with a very high rotation measure
+### Rotation Measures
+* Faraday rotated: a rotation of the orientation of the light by a magnetic field.
+* Rotation Measures:  How much that light gets rotated as it travels
+	* depends on: 
+		* the magnetic field between us and the source, 
+		* the density of the material that the light is going through, 
+		* the distance to the source
+	* range: -100 rad m-2 to -120 rad m-2
+	* newly found: 500 rad m-2
+* Signal: RM from the Milky Way + the RM from the medium between galaxies + the RM of the host itself. 
+	* extragalactic contribution： 525 rad m-2
+	* require the magnetic field between galaxies to be 1000x greater than they are
+	* from the ionized material surrounding the two galaxies? No! beacause other sources around M33 have RMs of <100 rad m-2
+	* explanation: originated from an area of very dense, magnetized material in the host galaxy
+	* no radio counterpart
+	* don't repeat
 	
+	
+
+
