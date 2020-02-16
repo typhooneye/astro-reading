@@ -355,7 +355,36 @@ Why the emission line tends to be lower?
 	* explanation: originated from an area of very dense, magnetized material in the host galaxy
 	* no radio counterpart
 	* don't repeat
-	
+
+# Feb 16
+###### Astrobites
+## Deciphering Spitzer’s Legacy: Signs of Dead Galaxies at Cosmic Dawn
+###### by John Weaver 
+
+### Spitzer
+* retired: Jan 30 2020
+* instruments:
+	* the Infrared Camera (IRAC), 
+	* Infrared Spectrograph (IRS), 
+	* Multiband Imager (MIPS)
+* scientific results:
+	* the nature of star-formation, 
+	* the formation of exoplanets,
+	* the dusty structures within the galaxies
+### The IRAC excess
+* difficulties to discover th galaxies in the early universe:
+	* dimming light duting the distance
+	* redshift
+	* less spectroscopy to imaging (wide-field sky survey need efficient way)
+* Spitzer object: extremely distant galaxies seen at z>5(one billion years of the Big Bang)
+	* the light is redshifted into the 3.6 and 4.5 um channels of IRAC
+* findings:
+	* old knowaledge: nearby galaxies show strong connection between that emission lines from ionized gas and intense star-formation. 
+	* IRAC-excess galaxies: have strong Lyman-alpha emission which not only implies strong star-formation but also at 7<z<9 whereby the [OIII] and Hβ emission lines fall into the 4.5um channel
+	* galaxies z=9.11: features in 4.5um band:  the 4000Å break
+		* a lack of young O and B stars, implying a dearth of star-formation.
+		* indication: not only that this galaxy was one of the first to form in our universe, but that it has also lived and died on an unbelievably short timescale. 
+
 	
 
 
