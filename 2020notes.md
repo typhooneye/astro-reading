@@ -386,5 +386,17 @@ Why the emission line tends to be lower?
 		* indication: not only that this galaxy was one of the first to form in our universe, but that it has also lived and died on an unbelievably short timescale. 
 
 	
+# Feb 16
+###### Astrobites
+## The TESS Mission’s First Earth-Like Planet Found in an Interesting Trio
+###### by Haley Wahl
 
+* Host Star(red dwarfs):
+	* method: using known relations, checking their spectral energy distributions against known spectra, and using spectroscopy
+	* no flares from the star in the observations over five years
+* Puzzles about the largest planet in the missle of the system
+	* Solar system: the inner planets are small and rocky while the outer planets are larger and gaseous
+	* explanation1:  the two inner planets forming faster and accreting significant gaseous envelopes and the outer one forming more slowly and accreting less gas, then the innermost planet loses its envelope somehow. 
+	* explanation2: the middle planet formed outside the outermost planet but migrated inward somehow
+	
 
