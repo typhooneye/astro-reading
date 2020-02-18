@@ -386,7 +386,7 @@ Why the emission line tends to be lower?
 		* indication: not only that this galaxy was one of the first to form in our universe, but that it has also lived and died on an unbelievably short timescale. 
 
 	
-# Feb 16
+# Feb 17
 ###### Astrobites
 ## The TESS Mission’s First Earth-Like Planet Found in an Interesting Trio
 ###### by Haley Wahl
@@ -399,4 +399,42 @@ Why the emission line tends to be lower?
 	* explanation1:  the two inner planets forming faster and accreting significant gaseous envelopes and the outer one forming more slowly and accreting less gas, then the innermost planet loses its envelope somehow. 
 	* explanation2: the middle planet formed outside the outermost planet but migrated inward somehow
 	
+# Feb 18
+###### Astrobites
+## Red Galaxies at Night, Astronomers’ Delight!
+###### by Mitchell Cavanagh
 
+### Galaxies:
+* contain: hundreds of billions of stars
+* location is an important parameter
+* the star formation rate (SFR): how active the galaxy is
+	* the overall star formation rate of galaxies in the universe has decreased over time
+	* peak star formation having already occurred in the early universe
+### Work
+* Goal: determining whether this general reduction applies across all environments.
+* Samples: 
+	* high-redshift Group Environment and Evolution Collaboration (GEEC) 
+	* low-redshift Sloan Digital Sky Survey (SDSS).
+* methods:
+	* to get SFR: fitting spectral energy distributions (SEDs) to each sample
+		1. using a set of template SEDs from galaxies with known parameters
+			* model input: initial mass function (a function that describes the initial distribution of stellar masses)
+			* model function: can compute the spectral properties of that population over time
+		2. obtain the galaxy parameters that best fit the observed SED given the template SED
+	* to separate pairs of samples: friends-of-friends algorithm
+	* compare samples with different masses: using specific SFR (SSFR) – the ratio of the SFR divided by the stellar mass
+	
+* a birth rate b:
+	* description: multiplying the SSFR by the age of the Universe (in years)
+	* function: If this birth rate is greater than 1, then the galaxy is forming stars more quickly than it has in the past (and vice versa). 
+	* results: The set of galaxy samples at around log10 SSFR = −10
+	* the main-sequence of star-forming galaxies:  b ~ 1 suggesting that they have been forming stars at this rate for most of their lifetime
+	* quiescent galaxies: The clumps of samples below the red line
+* other evidence: the high redshift GEEC samples have consistently higher mean SSFRs than the low redshift SDSS samples. 
+* environmen? 
+	* passive galaxies: (those that have stopped forming stars)
+	* evidence1: that star-forming galaxies in all environments show a systematic, mass-independent lowering of SFR from z = 0.4 (around 4 billion years ago) to z = 0.08 (about 1 billion years ago)
+	* evidence2: the fraction of passive galaxies is higher in group galaxies than in field galaxies
+	* explanation:  Accretion models, strangulation
+		* hot gas surrounding a galaxy is stripped when the galaxy becomes a satellite of a massive dark matter halo
+	* “green” galaxies:  those in transition from active to passive
