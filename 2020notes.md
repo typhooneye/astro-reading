@@ -438,3 +438,25 @@ Why the emission line tends to be lower?
 	* explanation:  Accretion models, strangulation
 		* hot gas surrounding a galaxy is stripped when the galaxy becomes a satellite of a massive dark matter halo
 	* “green” galaxies:  those in transition from active to passive
+	
+# Feb 19
+###### Astrobites
+
+## Making a “Mega-Telescope” for Exoplanets
+###### by Briley Lewis 
+
+### usage of imaging planets
+* how much carbon there is compared to oxygen (the C/O ratio) ---- where it formed in the protoplanetary disk.
+* D/H ratio (deuterium to hydrogen) ---- how many icy bodies (like Kuiper Belt Objects) a planet must have accreted in its past.
+### technique
+* difficluties: resolution
+* solution: Interferometry
+### paper's work:
+*  techniques: ESO’s VLTI and its GRAVITY instrument 
+* target: HR 8799 e 
+* precision: measurements narrowed down the position to tens of microarcseconds
+* results: the planets around HR 8799 aren’t coplanar
+*  spectroscopy:
+	* The authors compared this to atmospheric models, which generate spectra for different kinds of atmospheres that the authors can then compare to the observed spectrum.
+	
+	
