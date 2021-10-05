@@ -323,6 +323,61 @@
 
 
 
+## Sep
+
+### [Water oceans on high-density exoplanets from interior-atmosphere feedbacks](https://player.vimeo.com/video/592669661)
+
+![Screen Shot 2021-09-23 at 12.49.21 AM](/Users/jixuan/Documents/AstroReading/astro-reading/figures/Screen Shot 2021-09-23 at 12.49.21 AM.png)
+
+* Three initial conditions determined by its distance to the stars:
+  * Close in: 
+    * All water is vapor, but CO2 outgassing lasts long.
+  * Temperate: Unable to lose the primordial atmosphere-> pressure is high -> no outgassing
+    * **Why H2 loss is limited when T~500K?**
+  * Cool： 
+    * Water can be condensed.
+      * CO2 outgassing is stong -> limit wate outgassing because of the high pressure ->CO2 dominant 
+      * CO2 outgassing is weak -> water built on the surface -> ...
+* Large core -> less volcanic activities -> CO2 outgassing last not that long
+  * Ocean is favored on the high-density planet
+
+
+
+### PCA, EOF(Principal component analysis)
+
+* Break the data up to several parts with different variation:
+  * Advantage compared to Fourier analyst:
+    * It does not assume an eigenfunction (sine function)) but can be applied to any functions.
+
+###  The Potential Steam Atmosphere of TOI-1266c
+
+* super-Venus in the radius valley.
+* a large volatile fraction.
+* volatile reservoirs that have survived **billions** of years at more than **twice the Earth’s insolation**.
+* water-rich atmospheres with trace amounts of H2 and CO2 are potentially detectable for JWST.
+* We also find that water vapor spectral features are not substantially impacted by the presence of high-altitude water or ice clouds due the presence of a significant amount of water above the cloud-deck.
+
+
+
+## Oct
+
+### Collision Chains among the Terrestrial Planets. II. An Asymmetry between Earth and Venus
+
+* Hit-and-run collisions:
+  * two major remnants plus debris: the target and impactor
+* Consider proto-Venus or proto-Earth as a runner:
+  * The accretion of these runners can take &10 Myr (depending on the egress velocity of the first collision) 
+  * It can involve successive collisions with the original target planet or with other planets.
+* The stories:
+  * Immediate result of the hit-and-run collision: proto-Venus being smaller and faster orbiting than proto-Earth
+  * Later: 
+    * Venus acts as a sink accretes other runners
+    * Earth lost matrials -> go to Venus
+  * -> a disparity in the style of late-stage accretion that could have led to significant differences in geology, composition, and satellite formation at Earth and Venus.
+* 
+
+
+
 
 
 ### Relevant / Important / Useful
