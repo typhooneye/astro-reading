@@ -21,6 +21,18 @@
 * Important knowledge:
 
   * Clausius-Clapeyron scaling:
+
     * $\frac{de_s}{e_sdT} \approx 7 \%/K$
-  * 
-    *  
+
+    
+
+### Machine learning to evaluating the models
+
+* Processes: (Causal network)
+  * Creates 20 models and observations
+  * Take Pierce analysis (Put the data to risen functions and get Eigen values)
+  * Choose the region of variability. (b)
+  * Find the link between regions. Distinguish spurious link and the real links(c). And generate the model.
+    * Some of them are intrinsic, while some of them are caused by others.
+    * May based on the value of the coefficient. 
+  * Compare the model by the network they made.  

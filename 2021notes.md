@@ -374,11 +374,42 @@
     * Venus acts as a sink accretes other runners
     * Earth lost matrials -> go to Venus
   * -> a disparity in the style of late-stage accretion that could have led to significant differences in geology, composition, and satellite formation at Earth and Venus.
-* 
 
 
 
+### Why do M dwarfs have more transiting planets? Arxiv: 2110.02971
 
+* Main Results: The masses of hot super-Earths and of cold giant planets are anti-correlated.
+* Factors:
+  * Snowline: 
+    1. remove half the solid mass interior to the snow line to account for the sublimated water mass.
+    2. We reduce the fragmentation velocity interior to the snow line by a factor 10 because ices are more sticky than silicate dust according to lab experiments
+  * Filtering:
+    * Pebbles accreted (or blocked) by the outer planet are not also accreted by the inner planet.
+
+<img src="/Users/jixuan/Documents/AstroReading/astro-reading/figures/Screen Shot 2021-10-11 at 11.08.08 AM.png" alt="Screen Shot 2021-10-11 at 11.08.08 AM" style="zoom:50%;" />
+
+<img src="/Users/jixuan/Documents/AstroReading/astro-reading/figures/Screen Shot 2021-10-11 at 11.08.14 AM.png" alt="Screen Shot 2021-10-11 at 11.08.14 AM" style="zoom:50%;" />
+
+
+
+### Chemical evidence for planetary ingestion in a quarter of Sun-like
+
+* Main Idea:
+  * Measure the refractory elements abundance of the star in binaries can indicate if the star engulf a planet.
+* Why is it important:
+  * The evolution of life requires a dynamically stable environment. Engulfment of the planets indicate an unstable dynamical history of the system. So searching for habitable planets require the stellar abundance does not indicate the engulfment.
+* How it works:
+  * The atmospheric abundance should be same in binaries:
+    * Because they originate in the same molecule cloud.
+    * Although the abundance may vary from different masses (temperature) due to the stellar evolution. The upper atmospheric abundances are different.  **->** So they selected a sublet containing stars with binaries of the same mass.
+  * Get the anomaly between two stars.
+* Results:
+  * The fraction of anomalous pairs increase with stellar temperature.
+    * False relation: It is due to the different thickness of convective envelopes. 
+      * When temperature is low, the convective envelope is thicker, and therefore the engulfed heavy elements are efficiently mixed away deep into the star’s interior. 
+      * When temperature is high, the convective envelope is thiner and the heavy elements can stay in upper atmosphere longer.
+    * Verify it: They simulated mock datas with the constant engulfments fraction with different masses, but show the increasing trend.
 
 ### Relevant / Important / Useful
 
