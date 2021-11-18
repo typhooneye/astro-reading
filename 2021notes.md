@@ -411,6 +411,25 @@
       * When temperature is high, the convective envelope is thiner and the heavy elements can stay in upper atmosphere longer.
     * Verify it: They simulated mock datas with the constant engulfments fraction with different masses, but show the increasing trend.
 
+### Constraining stellar rotation and planetary atmospheric evolution of a dozen systems hosting sub-Neptunes and super-Earths [2110.09106]
+
+* Rotation rate -> stellar magnetic activity -> EUX flux -> planet atmosphere loss rate -> planet mass fraction 
+* They must have some strong prior assumptions, like the composition of the atmosphere and the fraction of the core/mantle.
+
+### Exoplanet Ocean Water-Worlds: How salty?
+
+* Structure of water-rich exoplanet:
+  * Liquid water
+  * X ice: Clathrate (water molecule in some cage(Cx1Hy1) )
+  * VI ice: Filled Ice (water molecule in some cage(Cx2Hy2) )-> high pressure 
+  * Silicate mantle
+* Circulation:
+  * Two steady-states for atmospheric CO2:
+    * A few bar - controlled by polar sea ice
+    * Afew 10 bars: wind-driven circulation->sink at sub-tropic; outgas from tropic
+    * --> observable by CH4/CO2 ratio
+* 
+
 ### Relevant / Important / Useful
 
 ### Interesting / Keep in mind

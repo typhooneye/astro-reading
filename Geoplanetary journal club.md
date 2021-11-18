@@ -1,6 +1,8 @@
 ## Sep 28
 
-* only the terrestrial planet or all of the planets including ice giant and gas giant
+### Exogeology from Polluted White Dwarfs
+
+* only the terrestrial planet or all of the planets including ice giant and gas giant can be engulfed by the white dwarf phase-sun
 
   * The high abundance of O suggests there should be the entire solar system
 
