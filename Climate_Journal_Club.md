@@ -36,3 +36,20 @@
     * Some of them are intrinsic, while some of them are caused by others.
     * May based on the value of the coefficient. 
   * Compare the model by the network they made.  
+
+### Hothouse Climate
+
+![Screen Shot 2021-11-30 at 10.18.59 AM](/Users/jixuan/Desktop/Screen Shot 2021-11-30 at 10.18.59 AM.png)
+
+* LTRH:
+  * Our atmosphere:
+    * Top stratosphere: Ozone zone -> absorb the solar radiation -> radiative heating
+    * Lower stratosphere & Top troposphere-> higher clouds emits less radiation than the environment -> radiative cooling
+  * Hothouse Climate;
+    * Lower stratosphere & Top troposphere-> 
+      * The water vapor is saturated -> no more absorption and re-emission in infrared band -> cooling vanishes.
+      * The water vapor can absorb in visible band -> heating
+      * ->**LTRH**
+  * **Why does the heating only occur in the lower layer of the troposphere?**
+    * The water vapor content scale with the temperature, so only the higher temperature region (lower part) has enough water vapor.
+

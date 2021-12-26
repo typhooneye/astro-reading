@@ -1,0 +1,10 @@
+15:08:47 From John Lee Grenfell to Everyone:
+	@Julian thanks for a great talk. You mentioned I think about photoevaporation possibly driving the Fulton gap between mini Neptunes and Super-Earths. Another proposed mechanism is core-powered loss. I wonder whether your results on radio shock driven atmospheric loss could help this debate.
+15:12:35 From John Lee Grenfell to Everyone:
+	@Envangelia: I think there is a small community who argue that planetary magnetic fields could actually enhance atmospheric loss by attracting charged particles. Any comments on that?
+15:13:02 From Julián D. Alvarado-Gómez to Everyone:
+	Indeed! That’s another mechanism (and thanks for pointing this out). And you are right, I believe a flare star such as AU Mic could be crucial to perhaps distinguish between mechanisms. As far as I know (and I might be wrong) it seems like the planets of AU Mic have already lost a lot of their atmosphere.
+15:13:31 From John Lee Grenfell to Everyone:
+	Thanks :)
+15:13:39 From Julián D. Alvarado-Gómez to Everyone:
+	So perhaps also the time-scales could help there 9AU Mic is only 22 Myr old).

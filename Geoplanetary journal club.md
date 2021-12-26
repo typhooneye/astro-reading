@@ -23,3 +23,19 @@
     L is latent heat of the material of the planetesimal; d is the size, rho is the density
 
     -> t~3 months, so it will be quickly vaporized when it reaches 0.006AU
+
+
+
+## Nov 29
+
+### Convergency age [arxiv: 2111.01816v1]
+
+* The logic of this paper:
+  * The evolution of HZ corresponding to stellar evolution suggeats AU mic is a good target to observe the pre-main sequence stage.
+  * The convergency time suggests that AU mic have not reached equlibrium.
+  * The dynamics analysis suggests the stability of the orbit.
+* Criticism:
+  * The sample the parameter independently, but they are correlated with each other, make the results less
+
+### Mantle temperature dependency on stellar radiation
+
