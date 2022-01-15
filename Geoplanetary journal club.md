@@ -39,3 +39,25 @@
 
 ### Mantle temperature dependency on stellar radiation
 
+
+
+## Jan 2022
+
+
+Reading: sections 1+2 of https://arxiv.org/pdf/2112.04663.pdf
+
+* chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Farxiv.org%2Fpdf%2F1605.01066.pdf&clen=2309984&chunk=true
+* The explanation of rocky planet threshold: https://arxiv.org/abs/1702.03386
+  - Impact
+  - Gas loss
+  - Migration
+* detection bias: https://arxiv.org/abs/2106.09725
+* Showman, Atmospheric circulation of exoplanets https://arxiv.org/abs/0911.3170 . Daniel Koll has published a paper on radiative timescales and circulation timescales but with focus on Earth-like exoplanets.
+* Thermal phase V.S Transmission spectra.
+* **Q: How scale height relate to transmission spectra?**
+  - Strength of features in a transmission spectrum depend on the scale height of the atmosphere and the strength of the absorber.
+  - The amplitude of spectral features in transmission is then:
+  - $\delta_\lambda = \frac{(R_p+nH)^2}{R_s^2} - \frac{R_p+^2}{R_s^2} $ 
+  - where n is the number of scale heights crossed at wavelengths with high opacity (typically around two for cloud-free atmospheres at low spectral resolution; Stevenson 2016)
+
+
